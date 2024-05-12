@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/10410257/154433305-416d129b-60c8-44c7-
 
 - **Strong baseline and State of the art**
 
-  The toolbox provides strong baselines and state-of-the-art methods in rotated object detection.
+and state-of-the-art methods in rotated object detection.
 
 </details>
 
